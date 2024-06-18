@@ -1,6 +1,6 @@
 # WestForkKickapoo HeatSource9
 
-Repository for Heatsource code generated for my Master's thesis.
+Repository for Heatsource code generated from my 2024 Master's thesis at UW-Madison.
 
 
 
